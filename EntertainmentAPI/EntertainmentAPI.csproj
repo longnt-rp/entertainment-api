@@ -23,7 +23,7 @@
     <Folder Include="Migrations\" />
     <Folder Include="Extensions\" />
     <Folder Include="Helpers\" />
-    <Folder Include="Enums\" />
+    <Folder Include="Models\Question\" />
   </ItemGroup>
 
 </Project>
